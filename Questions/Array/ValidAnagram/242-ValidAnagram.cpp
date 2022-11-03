@@ -1,9 +1,12 @@
+#include <array>
+#include <string>
+
 class Solution {
     
     using AlphabetSet = std::array<int, 26>;
     
 public:
-    bool isAnagram(string left, string right) {
+    bool isAnagram(std::string left, std::string right) {
         
         AlphabetSet leftSet;
         AlphabetSet rightSet;

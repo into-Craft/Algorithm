@@ -1,6 +1,9 @@
+#include <vector>
+#include <unordered_map>
+
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {
+    bool containsDuplicate(std::vector<int>& nums) {
      
         std::unordered_map<int, std::vector<int>> chainedHashBucket;
         
