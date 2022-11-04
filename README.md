@@ -10,3 +10,12 @@ Follow the :point_right: [Coding interview study plan](https://www.techinterview
 - Questions
 - Topics
 ```
+
+## Rules
+
+```None
+- FileName : Following Pascal Case rules.
+- Coding Style : 
+  - Python : PEP 8 – Style Guide 
+  - C++ : Google C++ Style Guide
+```
