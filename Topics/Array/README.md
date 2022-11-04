@@ -11,8 +11,8 @@
 ### 관련 용어
 ---
 1. Index: 요소가 배열 내에 위치한 번호
-1. SubArray: 연속적인 Index로 구성된 배열
-2. SubSequence: 일부 요소들을 제거한 배열
+2. SubArray: 연속적인 Index로 구성된 배열
+3. SubSequence: 일부 요소들을 제거한 배열
 
 ### 시간 복잡도
 ---
