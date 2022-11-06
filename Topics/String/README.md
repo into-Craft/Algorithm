@@ -18,14 +18,15 @@
   ```
 
 - 자주 사용되는 알고리즘
-  - Rabin Krap
+  - Rabin Krap : rolling hash 를 이용한 효율적인 부분 문자열 검색 알고리즘
+    - Rolling Hash(= recursive hashing, rolling checksum) (cf. rsync 도 rolling hash 를 사용한다) ([youtube link](https://youtu.be/BQ9E-2umSWc))
 
   ```None
   [Rabin Krap]
 
   ```
 
-  - KMP
+  - KMP : 효율적인 부분 문자열 검색 알고리즘 O(NM)
 
   ```None
   [KMP]
